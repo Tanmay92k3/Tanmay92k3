@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  @Tanmay92k3 
-- 👀 I’m interested in Cyber Security 🛡️ and Blockchain 🔗
-- 🌱 I’m currently learning Python 🐍 and Linux 🐧
+- 👀 Interested in Cyber Security 🛡️ and Blockchain 🔗
+- 🌱 Currently learning Python 🐍 and Linux 🐧
 
 
 <!---
